@@ -1,0 +1,201 @@
+Timestamp,Location,Platform,Post,Tags,MentionedAccounts,Likes,Replies
+2023-01-01 07:10:00,Home (Pacific Palisades),Twitter (X),"Happy New Year from the Smith family! Ready for fresh goals and big smiles.","#NewYear #Family","@MaryTeacher",45,3
+2023-01-01 19:25:00,Home (Pacific Palisades),Instagram,"Captured a silly moment with Tina spinning in her new ballet shoes.","#Ballet #DadLife","#TinaSmith",88,10
+2023-01-02 07:15:00,Coffee Shop,Snapchat,"(No text) – Just a quick snap of my cappuccino foam art. Feeling fancy!","#MorningCoffee","#FoamArt",12,0
+2023-01-02 20:40:00,Acme Construction HQ,LinkedIn,"Wrapped up a productive day analyzing rebar specs for the overpass project.","#Engineering #AcmeConst","#TonyEngineer",36,2
+2023-01-03 07:05:00,Home (Pacific Palisades),Twitter (X),"Kids are off to school, hoping no meltdown in the car. Fingers crossed!","#SchoolRun","#Parenting",40,5
+2023-01-03 19:55:00,Home (Pacific Palisades),Facebook,"Family board game night turned into a hilarious feud. Mike declared himself champion!","#BoardGames #FamilyTime","@MikeChampion",57,4
+2023-01-04 07:18:00,Local Gym,Instagram,"Early workout with Mary. She outran me on the treadmill AGAIN!","#FitnessGoals #CoupleWorkout","@MaryTeacher",92,8
+2023-01-04 20:22:00,Home (Pacific Palisades),TikTok,"Quick dance video with Tina. She’s the real star, I just flail about!","#FatherDaughterDance","#TinaSmith",123,15
+2023-01-05 07:09:00,Acme Construction HQ,LinkedIn,"Finalizing budgets, leading the team, and sipping coffee all at once.","#EngineeringLife #Multitask","@AcmeConst",33,1
+2023-01-05 20:45:00,Home (Pacific Palisades),Facebook,"Baked cookies with Mike, turned the kitchen into a flour battlefield!","#Baking #FunChaos","@MikeChampion",76,9
+2023-01-06 07:02:00,Starbucks,Snapchat,"(Video) – Slurping the caramel latte, too good for words!","#CoffeeAddict","#MorningTreat",19,0
+2023-01-06 19:35:00,Home (Pacific Palisades),Instagram,"Kicking off the weekend with a jam session on my acoustic guitar.","#Music #WeekendVibes","@TonyMusicBuddy",104,11
+2023-01-07 07:12:00,Home (Pacific Palisades),Twitter (X),"Anyone else’s kids up at dawn on a Saturday? Send help…","#NoSleep","#ParentLife",51,3
+2023-01-07 19:10:00,Family Restaurant,Facebook,"Surprised Mary with date night. The kids plotted with me to keep it secret!","#DateNight #FamilyPlot","@MaryTeacher",89,7
+2023-01-08 07:30:00,Beachfront Pacific Palisades,Instagram,"Morning stroll by the ocean. Waves and coffee – perfect combo!","#BeachLife #Relax","#JohnSmithVibes",112,9
+2023-01-08 19:00:00,Home (Pacific Palisades),TikTok,"Mike teaching me soccer tricks. I’m more of a music guy than a sports star!","#SoccerDad","#MikeChampion",137,16
+2023-01-09 07:03:00,Acme Construction HQ,LinkedIn,"Early site meeting. The overpass design is coming together nicely!","#Engineering #Progress","#AcmeConst",46,2
+2023-01-09 20:10:00,Home (Pacific Palisades),Twitter (X),"Tina’s ballet practice turned our living room into a mini studio. Proud dad moment!","#BalletStar","#TinaSmith",59,5
+2023-01-10 07:28:00,Home (Pacific Palisades),Facebook,"Mary made an epic breakfast spread. Mike tried cooking eggs… emphasis on ‘tried!’","#KitchenAdventures","#FamilyTime",64,4
+2023-01-10 19:05:00,Tony’s Garage,Instagram,"Late jam session with Tony. Funk grooves and coffee keep us awake!","#MusicJam #CreativeNights","@TonyMusicBuddy",117,10
+2023-01-11 07:17:00,Home (Pacific Palisades),TikTok,"Morning routine meltdown: lost shoes, cold cereal, but we survived!","#RealLife","#MorningRush",92,14
+2023-01-11 20:20:00,Acme Construction HQ,LinkedIn,"Organizing a team-building lunch next week. Let’s keep morale high!","#WorkCulture #Engineering","@AcmeConst",37,2
+2023-01-12 07:16:00,Home (Pacific Palisades),Twitter (X),"Playing dentist with Spot (the dog) at 7am. Not recommended!","#DogLife","#Chaos",45,3
+2023-01-12 19:45:00,Dance Supply Shop,Instagram,"Tina picked out new ribbons, so fancy. She’s shining bright!","#BalletLife #ProudDad","@TinaSmith",99,8
+2023-01-13 07:10:00,Acme Construction HQ,LinkedIn,"Reviewing rebar deliveries and sipping the strongest coffee. Efficiency maxed.","#Construction #CoffeePower","@TonyEngineer",39,1
+2023-01-13 20:55:00,Home (Pacific Palisades),Facebook,"Family karaoke night: Mary belting out 80s hits, kids rolling on the floor laughing!","#KaraokeParty #Laughs","@MaryTeacher",81,6
+2023-01-14 07:02:00,Home (Pacific Palisades),Twitter (X),"Saturday means groceries. Wish me luck wrangling the kids through the aisles.","#DadDuty #Weekend","#MikeChampion #TinaSmith",59,4
+2023-01-14 19:15:00,Local Pizza Place,Instagram,"Pizza feast after errands. We earned those extra calories. Yum!","#CheatDay #FamilyNight","#SmithCrew",85,11
+2023-01-15 07:05:00,Home (Pacific Palisades),Snapchat,"(Photo) – Woke up to Mike dribbling a soccer ball indoors. Save us!","#SoccerObsessed","#Chaos",23,0
+2023-01-15 20:30:00,Living Room,Facebook,"Game night meltdown: Tina dethroned Mike in Monopoly. Legendary drama!","#BoardGameFever","#SiblingRivalry",68,7
+2023-01-16 07:12:00,Acme Construction HQ,LinkedIn,"Early blueprint revisions with Angela. Fingers crossed for no last-minute changes!","#EngineeringLife","#AcmeConst",45,1
+2023-01-16 19:40:00,Home (Pacific Palisades),TikTok,"Trying out Mary’s new choreographed routine. I look like a dancing giraffe!","#MarriageGoals","#NoShame",123,15
+2023-01-17 07:14:00,Home (Pacific Palisades),Twitter (X),"Mike missed the bus, so we speed-raced to school. Monday vibes on a Tuesday!","#ParentFail","#MorningRush",53,4
+2023-01-17 20:05:00,Ballet & More Store,Instagram,"Tina found sparkly hairpins. She’s literally glowing with excitement!","#BalletAccessories","#TinaSmith",96,12
+2023-01-18 07:06:00,Home (Pacific Palisades),Facebook,"Mary tried a new smoothie recipe. Mike called it ‘the green swamp drink.’","#HealthyLiving","#FamilyOpinions",74,5
+2023-01-18 19:25:00,Tony’s Garage,TikTok,"Tony and I jamming on a funk groove. Neighbors might complain about the bass!","#MusicDuo","#NightGroove",118,18
+2023-01-19 07:25:00,Acme Construction HQ,LinkedIn,"Closing in on the overpass design deadline. Proud of our team’s hustle.","#Deadline #TeamWork","#AcmeConst",41,2
+2023-01-19 20:55:00,Home (Pacific Palisades),Twitter (X),"Kids turned the kitchen into a cookie lab. Flour in my hair, love in the air!","#FamilyBaking","#SmithCrew",58,5
+2023-01-20 07:08:00,Home (Pacific Palisades),Instagram,"Morning meltdown? Check. We’re still smiling though, somehow!","#Moments","#SurvivalMode",90,9
+2023-01-20 19:45:00,Local Park,Snapchat,"(Video) – Mike practicing soccer shots under the park lights. Impressive footwork!","#SoccerNight","#ProudDad",31,0
+2023-01-21 07:03:00,Home (Pacific Palisades),TikTok,"Attempting a father-daughter dance challenge with Tina. I have two left feet!","#DanceOff","#TinaSmith",117,14
+2023-01-21 20:20:00,Family Diner,Facebook,"Saturday dinner at our favorite diner. Mary says I’m addicted to their fries.","#CheatMeal #DateWithFamily","@MaryTeacher",62,6
+2023-01-22 07:11:00,Beach Path,Instagram,"Sunrise jog by the ocean. Refreshing breeze, unstoppable dad!","#Fitness #MorningRun","#JohnSmithVibes",106,11
+2023-01-22 19:10:00,Home (Pacific Palisades),Twitter (X),"Mike’s soccer recap: He scored a goal, he’s telling the story like it’s the World Cup final!","#YouthSoccer","#ProudDad",71,6
+2023-01-23 07:04:00,Acme Construction HQ,LinkedIn,"Kicking off the week with a safety briefing. Let’s keep the overpass secure!","#Construction #SafetyFirst","@AcmeConst",42,1
+2023-01-23 19:50:00,Living Room,Facebook,"Tina performed an impromptu ballet show. Our living room is basically a stage now.","#DanceStar #FamilyPride","#TinaSmith",78,7
+2023-01-24 07:27:00,Home (Pacific Palisades),Instagram,"Caught Mary napping on the couch with Spot snoring beside her.","#PeacefulMoment #SleepyHeads","@MaryTeacher",88,10
+2023-01-24 20:15:00,Tony’s Garage,TikTok,"Funky jam with Tony, tries mixing EDM loops with my acoustic licks. Surreal!","#MusicFusion","#TonyMusicBuddy",129,16
+2023-01-25 07:16:00,Home (Pacific Palisades),Twitter (X),"School run: one meltdown over mismatched socks, one lost shoe, typical Wednesday!","#DadLife","#MorningChaos",62,4
+2023-01-25 19:30:00,Home (Pacific Palisades),Facebook,"Mary’s new pasta recipe: turned out 10/10. Mike had three bowls. Impressive!","#Foodies","#FamilyDinner",72,5
+2023-01-26 07:09:00,Acme Construction HQ,LinkedIn,"Adjusting budgets for rebar once again. Will the surprises ever end?","#ProjectManagement #Stress","#AcmeConst",47,2
+2023-01-26 20:23:00,Home (Pacific Palisades),Instagram,"Board game mania: we tackled a 1000-piece puzzle. Dogs + kids + puzzle = madness!","#FamilyNight","#NeverADullMoment",98,12
+2023-01-27 07:03:00,Local Gym,TikTok,"Tried to beat Mary’s treadmill record. Result: epic fail, comedic panting.","#FitnessCouple","#Humbled",108,13
+2023-01-27 19:05:00,Home (Pacific Palisades),Twitter (X),"Mike’s bragging about a hat-trick he scored at practice. Maybe he’s the next Messi?","#SoccerStars","#DreamBig",56,5
+2023-01-28 07:22:00,Home (Pacific Palisades),Facebook,"Morning coffee on the porch, enjoying a rare calm day. Kids still asleep… heaven!","#LittleJoys","#QuietTime",62,4
+2023-01-28 20:40:00,Local Ice Cream Shop,Instagram,"Late-night treat. Tina tried triple-chocolate swirl, declared it ‘ballet fuel!’","#SweetTreat","#FamilyBonding",93,11
+2023-01-29 07:00:00,Home (Pacific Palisades),Twitter (X),"Woke up to see Spot has stolen my slippers. This dog needs an intervention…","#DogLife","#SundayDrama",54,3
+2023-01-29 19:10:00,Living Room,LinkedIn,"Weekend read: leadership strategies. Gotta keep the team inspired at Acme Construction.","#Leadership #Motivation","#AcmeConst",52,2
+2023-01-30 07:13:00,Coffee Shop,Instagram,"Mary and I on a spontaneous coffee date. Savoring these mini escapes.","#CoupleTime #RandomFun","#MaryTeacher",95,9
+2023-01-30 19:55:00,Home (Pacific Palisades),TikTok,"Trying an 80s dance challenge with the kids. Let’s just say I’m more 1880s than 1980s!","#Nostalgia","#EmbarrassingDad",127,15
+2023-01-31 07:06:00,Acme Construction HQ,LinkedIn,"Finalizing site inspection schedules. The overpass is nearly there!","#CivilEngineering #AcmeConst","#TonyEngineer",45,1
+2023-01-31 19:25:00,Home (Pacific Palisades),Facebook,"Tina crocheting a tiny scarf for Spot. He’s actually rocking it!","#CreativeKids","#PetFashion",72,6
+2023-02-01 07:18:00,Home (Pacific Palisades),Twitter (X),"Power outage for 15 minutes this morning—kids freaked out over no Wi-Fi!","#TechAddicts","#MorningChaos",57,4
+2023-02-01 20:20:00,Balcony at Home,Instagram,"Sunset guitar strumming. Mary snapped this pic mid-chord. Peaceful moment!","#SunsetVibes #MusicLife","#MaryTeacher",103,10
+2023-02-02 07:22:00,Local Bagel Shop,Facebook,"Grabbed bagels for the whole family. Mike devoured his in 30 seconds flat.","#BreakfastRun #HungryKids","@MikeChampion",66,5
+2023-02-02 19:00:00,Home (Pacific Palisades),TikTok,"Dance collab with Tina. She’s all grace; I’m comedic relief!","#DadAndDaughter","#TinaSmith",122,16
+2023-02-03 07:09:00,Acme Construction HQ,LinkedIn,"Kicked off a new environmental compliance training for the overpass project.","#EcoFriendly #ProjectUpdate","#AcmeConst",49,1
+2023-02-03 20:50:00,Home (Pacific Palisades),Twitter (X),"Friday night jam with Tony turned into a mini block party. Neighbors joined in!","#MusicCommunity","#TonyMusicBuddy",67,5
+2023-02-04 07:11:00,Home (Pacific Palisades),Instagram,"Hosting a yard sale today. Kids are ruthless negotiators—watch your wallet!","#YardSale #FamilyFun","#SmithCrew",99,9
+2023-02-04 19:15:00,Local Theater,Facebook,"Took Tina to see a ballet performance. She’s starry-eyed, planning her own big show!","#Inspiration #Ballet","#TinaSmith",88,8
+2023-02-05 07:00:00,Home (Pacific Palisades),Snapchat,"(Pic) – Mary’s sleepy face. She’ll kill me if she finds out I posted this!","#Secret","#MorningLOL",25,0
+2023-02-05 20:10:00,Home (Pacific Palisades),TikTok,"Attempting a new cooking trend from Mary’s recipe. Chaos. Tune in for the fails!","#KitchenFails","#MaryTeacher",131,17
+2023-02-06 07:02:00,Acme Construction HQ,LinkedIn,"Conducting a structural audit today. Adrenaline pumping!","#EngineersAtWork","#AcmeConst",37,1
+2023-02-06 19:40:00,Home (Pacific Palisades),Instagram,"Mike taught me a soccer juggling trick. I look like a clown, but hey, progress!","#NeverTooOld #Sports","#MikeChampion",100,12
+2023-02-07 07:21:00,Home (Pacific Palisades),Twitter (X),"Tina’s meltdown over a missing pink headband. Found it in Spot’s dog bed!","#FamilyDrama","#MorningRush",61,3
+2023-02-07 20:22:00,Baskin-Robbins,Facebook,"Late-night ice cream with Mary. Celebrating small wins—like surviving the day!","#SweetTreats","#DateNight",70,5
+2023-02-08 07:26:00,Home (Pacific Palisades),Instagram,"Morning serenity: coffee in hand, kids still snoozing. Rare miracle!","#QuietMoments #Blessed","#JohnSmithVibes",104,11
+2023-02-08 19:12:00,Family Room,TikTok,"Spot the dog chasing its tail. We added silly music—hilarious reaction!","#PetComedy","#SmithCrew",119,15
+2023-02-09 07:08:00,Acme Construction HQ,LinkedIn,"Reviewing project timeline with city officials—fingers crossed for smooth approvals.","#ProjectManagement #CityGov","@AcmeConst",52,2
+2023-02-09 19:00:00,Home (Pacific Palisades),Twitter (X),"Movie night, kids picked an action flick. Tina squealed, Mike made commentary. Chaos!","#FamilyBonding","#PopcornTime",66,4
+2023-02-10 07:13:00,Home (Pacific Palisades),Facebook,"Trying yoga with Mary. Mike laughed at my stiff poses, but I survived!","#CoupleGoals","#ZenAttempt",69,5
+2023-02-10 20:48:00,Tony’s Garage,Instagram,"Night jam: we merged funk bass with a disco beat. Tony’s unstoppable!","#MusicFusion","#TonyMusicBuddy",116,14
+2023-02-11 07:03:00,Home (Pacific Palisades),Twitter (X),"Tina’s rummaging for her favorite leotard. She’s got a mini performance in the driveway soon.","#BalletAddict","#Support",66,3
+2023-02-11 19:55:00,Local Bowling Alley,Facebook,"Family bowling night: I narrowly beat Mike by 1 pin. He’s demanding a rematch!","#Competition","#FamilyFun",72,5
+2023-02-12 07:20:00,Beach at Pacific Palisades,Instagram,"Sunrise run with Mary. She still outruns me, but I enjoy the view.","#BeachRun #Romantic","#MaryTeacher",95,10
+2023-02-12 20:05:00,Home (Pacific Palisades),TikTok,"Tina choreographed a short ballet-loves-hip-hop mix. Mike joined—surprisingly graceful!","#SiblingBond","#DanceFusion",131,17
+2023-02-13 07:11:00,Acme Construction HQ,LinkedIn,"Big safety review day. Our team is ready! Wish us luck.","#Construction #Safety","#AcmeConst",37,1
+2023-02-13 19:20:00,Living Room,Twitter (X),"Tina teaching me pirouettes. Mike filming, laughing in the corner. Expect a viral fail!","#DadDancer","#TinaSmith",69,5
+2023-02-14 07:25:00,Home (Pacific Palisades),Facebook,"Valentine’s morning chaos: heart pancakes burning, kids giggling. I blame love!","#ValentinesDay","#FamilyKitchen",62,5
+2023-02-14 20:10:00,Dining Room,Instagram,"Romantic candlelight dinner. Kids made fake violin music with squeaky toys. True love indeed!","#ValentinesVibes","#SmithCrew",116,13
+2023-02-15 07:06:00,Home (Pacific Palisades),Twitter (X),"Mike’s science project exploded—glitter everywhere. Mary’s not amused. I blame early morning madness!","#SchoolProjects","#ParentLife",79,4
+2023-02-15 19:35:00,Local Cafe,LinkedIn,"Met an old colleague for coffee. Brainstormed ways to improve rebar efficiency.","#EngineeringTalk #Networking","@AcmeConst",56,2
+2023-02-16 07:15:00,Home (Pacific Palisades),Instagram,"Tina insisted on wearing a tiara at breakfast. We all bowed, naturally.","#PrincessMorning #FamilyTradition","#TinaSmith",95,10
+2023-02-16 19:55:00,Local Park,TikTok,"Sunset soccer with Mike. I tried a bicycle kick, nearly broke my back!","#DadFails","#MikeChampion",133,15
+2023-02-17 07:02:00,Acme Construction HQ,LinkedIn,"Wrapping up cost estimates. Weekend in sight—hang in there, team!","#Engineering #TGIF","#AcmeConst",40,1
+2023-02-17 19:45:00,Living Room,Twitter (X),"Family karaoke: Mary belting Whitney Houston, I valiantly tried backup. Ears might bleed!","#FridayFun","#NoShame",63,5
+2023-02-18 07:23:00,Home (Pacific Palisades),Facebook,"Mike left early for a soccer tournament. Mary and I sipping coffee in rare silence.","#QuietHouse","#EarlyMatch",65,4
+2023-02-18 20:05:00,Local Diner,Instagram,"Post-tournament diner feast. Mike bragging about MVP vibes. We’re proud!","#HungryChampion","#FamilyBond",99,12
+2023-02-19 07:16:00,Home (Pacific Palisades),TikTok,"Tina taught me a random K-pop dance. I look like a malfunctioning robot!","#DanceTrend","#TinaSmith",128,16
+2023-02-19 19:35:00,Home (Pacific Palisades),Twitter (X),"Board game night meltdown part 2: Tina dethroned me in Catan. Sweet revenge for her!","#FamilyGames","#Drama",62,4
+2023-02-20 07:10:00,Acme Construction HQ,LinkedIn,"Marking final tasks for the overpass. Celebration soon? Fingers crossed!","#CivilEng #AlmostDone","#AcmeConst",46,1
+2023-02-20 20:40:00,Living Room,Facebook,"Played a silly guess-the-song game with Mary. She beat me 9 to 1!","#MusicChallenge","#MarriedLife",62,5
+2023-02-21 07:06:00,Home (Pacific Palisades),Instagram,"Short morning meltdown: no cereal, Mike blaming Tina, Tina blaming me. Fun times…","#FamilyReality #AmIToBlame","#SmithCrew",105,10
+2023-02-21 19:15:00,Local Ice Cream Shop,TikTok,"Celebratory sundaes after Mike’s practice. He tried dancing in the shop. Waitress laughed!","#SugarRush","#MikeChampion",131,17
+2023-02-22 07:02:00,Home (Pacific Palisades),Twitter (X),"Spot apparently hates the vacuum, barked all morning. Apologies, neighbors!","#DogDrama","#MorningNoise",54,3
+2023-02-22 20:30:00,Home Office,LinkedIn,"Burning midnight oil to finalize a safety report. Overpass must pass tomorrow!","#WorkLate #Engineering","@AcmeConst",49,2
+2023-02-23 07:27:00,Home (Pacific Palisades),Facebook,"Mary whipped up waffles so good Mike proposed adopting her as top chef. Laughter ensued!","#BreakfastBliss","#FamilyHumor",66,4
+2023-02-23 19:55:00,Ballet Studio,Instagram,"Tina’s rehearsal was magical. She glided like she owns the stage.","#BalletQueen #ProudDad","@TinaSmith",100,11
+2023-02-24 07:15:00,Acme Construction HQ,LinkedIn,"We passed a major milestone on the overpass—feels surreal! Great job, team.","#Success #HardWork","#AcmeConst",43,1
+2023-02-24 20:00:00,Living Room,TikTok,"Kids dared me to do a trending dance. I’ll regret it, but YOLO!","#DadDares","#SmithCrew",124,16
+2023-02-25 07:04:00,Home (Pacific Palisades),Twitter (X),"Weekend mode: coffee in hand, kids snoring away. I won this morning’s battle!","#SmallWins","#DadLife",54,3
+2023-02-25 20:10:00,Local Steakhouse,Instagram,"Date night with Mary. Candlelight, jazz in the background, feeling fancy!","#Romance #QualityTime","#MaryTeacher",109,13
+2023-02-26 07:03:00,Home (Pacific Palisades),Snapchat,"(Photo) – Mike flexing his biceps, claiming he’s the next big soccer star.","#MorningPosing","#TeenConfidence",21,0
+2023-02-26 19:25:00,Living Room,Facebook,"Movie night meltdown: remote got lost mid-film, found it in Spot’s bed again!","#ComedyOfErrors","#DogLife",66,4
+2023-02-27 07:18:00,Acme Construction HQ,LinkedIn,"Early briefing for final aesthetic touches on the overpass. Almost showtime!","#DesignMatters #Engineering","@AcmeConst",50,2
+2023-02-27 19:55:00,Home (Pacific Palisades),Twitter (X),"Tina crocheted a mini scarf for me—pink and sparkly. Guess I’m stylin’ now!","#CraftyDaughter","#DadModel",60,5
+2023-02-28 07:02:00,Home (Pacific Palisades),Instagram,"Mike insisted we do a father-son push-up challenge at dawn. He won… barely!","#FitnessChallenge #Ouch","#MikeChampion",98,10
+2023-02-28 19:35:00,Tony’s Garage,TikTok,"Funky jam with comedic lyrics about rebar and deadlines. Tony’s comedic gold!","#MusicParody","#TonyMusicBuddy",133,16
+2023-03-01 07:25:00,Home (Pacific Palisades),Twitter (X),"Midweek mania: Tina can’t find her leotard, Mike spilled OJ, Mary’s calm… somehow.","#MorningRush","#FamilyChaos",73,4
+2023-03-01 20:14:00,Living Room,Facebook,"Puzzle night: 500 pieces missing 1 piece? Mike swears it’s under Spot’s pillow!","#MysteryPuzzle","#FamilyLaughs",72,5
+2023-03-02 07:06:00,Acme Construction HQ,LinkedIn,"Meeting city officials for final inspection walk. Wish us luck—this is big!","#FinalStep #Engineering","#AcmeConst",48,1
+2023-03-02 19:55:00,Home (Pacific Palisades),Instagram,"Celebration dinner after a successful site walk! Mike wants sparkling juice toast.","#SuccessToast #Grateful","#SmithCrew",105,12
+2023-03-03 07:19:00,Home (Pacific Palisades),TikTok,"Created a comedic skit about daily overpass talk. Mary rolled her eyes but laughed!","#EngineerHumor","#MaryTeacher",128,14
+2023-03-03 19:20:00,Local Park,Twitter (X),"Evening stroll with Mary. Kids stayed home claiming they’re too ‘cool’ for walks? Teens, sigh.","#CoupleTime","#KidsTheseDays",77,5
+2023-03-04 07:09:00,Home (Pacific Palisades),Facebook,"Saturday breakfast meltdown: cereal spilt, dog licked it up, kids screaming. Typical day!","#MorningRitual","#NeverBoring",66,4
+2023-03-04 20:00:00,Bowling Alley,Instagram,"Family strike fest (except me, I’m gutter king). Laughter guaranteed!","#BowlingNight #FamilyTime","#SmithCrew",99,11
+2023-03-05 07:22:00,Beach (Pacific Palisades),Snapchat,"(Video) – Sunrise run. Mary teasing me about slow pace. She’s unstoppable!","#FitnessCouple","#BeachRun",24,0
+2023-03-05 19:10:00,Living Room,TikTok,"Kids dared Mary and me to do a partner dance challenge. We survived, barely!","#DanceChallenge","#MarriageWin",128,15
+2023-03-06 07:16:00,Acme Construction HQ,LinkedIn,"Another day, another blueprint tweak. Overpass must be perfect!","#QualityControl #Engineers","#AcmeConst",47,1
+2023-03-06 19:55:00,Home (Pacific Palisades),Twitter (X),"Mike’s meltdown: lost his soccer cleats again. Found them under the couch. Typical!","#SoccerProblems","#TeenLife",63,4
+2023-03-07 07:02:00,Home (Pacific Palisades),Facebook,"Tina tried cooking eggs—nearly set off the smoke alarm. We’re proud anyway!","#CookingAdventures","#Parenting",65,4
+2023-03-07 20:30:00,Local Cafe,Instagram,"Mary and I snuck out for dessert. Chocolate cake heaven, hush hush kids!","#DateNight #SweetEscape","#MaryTeacher",105,12
+2023-03-08 07:26:00,Home (Pacific Palisades),TikTok,"Lip-sync battle with Tina. She’s beyond awesome, I’m comedic relief. Perfect duo!","#FunWithTeens","#TinaSmith",119,16
+2023-03-08 19:00:00,Tony’s Garage,Twitter (X),"Late jam with Tony, brainstorming a new track about chaotic family mornings. Stay tuned!","#MusicInspiration","#TonyMusicBuddy",80,5
+2023-03-09 07:09:00,Acme Construction HQ,LinkedIn,"Prepping the overpass for final city approval. Crossed fingers, team energized!","#AlmostThere #TeamWork","#AcmeConst",50,1
+2023-03-09 19:42:00,Home (Pacific Palisades),Facebook,"Kids baking brownies at 7:30pm. Sugar mania incoming… pray for us!","#EveningChaos","#FamilyLife",63,5
+2023-03-10 07:03:00,Home (Pacific Palisades),Instagram,"Mike insisted on 6am dribble drills—neighbors might not appreciate the noise!","#SoccerObsessed","#TeenEnergy",101,10
+2023-03-10 20:00:00,Dance Studio,TikTok,"Tina’s mini performance. She let me cameo… I’m basically a moving prop!","#ProudDad","#BalletShow",127,18
+2023-03-11 07:04:00,Home (Pacific Palisades),Twitter (X),"Mary up early, baking something that smells like heaven. Kids suspiciously quiet—plotting?","#MorningMystery","#FamilyVibes",73,4
+2023-03-11 19:10:00,Local Arcade,Facebook,"Family night: air hockey battles. I dethroned Mike, who demanded a rematch!","#ArcadeFun","#FriendlyRivalry",64,5
+2023-03-12 07:18:00,Beach (Pacific Palisades),Instagram,"Sunday sunrise yoga with Mary. Waves + yoga = perfect mental reset.","#Mindful #BeachYoga","#MaryTeacher",102,11
+2023-03-12 19:50:00,Living Room,Twitter (X),"Board game meltdown part 3: This time it’s me vs. Tina, Monopoly war continues!","#FamilyGames","#DramaSaga",67,5
+2023-03-13 07:14:00,Acme Construction HQ,LinkedIn,"Inspectors gave us a thumbs-up. One last detail to finalize on the overpass!","#Success #Engineering","#AcmeConst",48,1
+2023-03-13 19:15:00,Home (Pacific Palisades),Instagram,"Mike made a highlight reel of his soccer goals. Kid’s confidence is sky-high!","#FutureStar","#MikeChampion",95,10
+2023-03-14 07:06:00,Home (Pacific Palisades),TikTok,"Tina pranked me with a dance jump scare. Full comedic effect at 7am!","#MorningPrank","#TinaSmith",119,14
+2023-03-14 20:55:00,Family Restaurant,Twitter (X),"Celebrated with a hearty dinner—overpass close to official finishing. Kids demanded dessert!","#Celebration","#FamilyTime",71,6
+2023-03-15 07:13:00,Home (Pacific Palisades),Facebook,"Mary found me practicing weird footwork for a potential father-daughter waltz. I'm busted!","#DancePractice","#DadGoals",67,4
+2023-03-15 19:10:00,Living Room,Instagram,"Team Netflix meltdown: no one agreed on a movie. Ended up rewatching a classic Disney film!","#FamilyDebates","#Compromise",104,12
+2023-03-16 07:02:00,Acme Construction HQ,LinkedIn,"Tying up final paperwork for city sign-off. Overpass unveiling soon!","#ProjectFinale #Engineering","@AcmeConst",42,1
+2023-03-16 19:45:00,Home (Pacific Palisades),TikTok,"Mary and I tested a couples dance challenge. We might be cringe, but we’re happy!","#CoupleGoals","#FunTimes",126,17
+2023-03-17 07:26:00,Home (Pacific Palisades),Twitter (X),"Friday chaos: Tina can’t find her phone, Mike refuses to wear matching socks. Typical.","#TGIF","#FamilyChaos",68,4
+2023-03-17 20:05:00,Home (Pacific Palisades),Facebook,"Ordered takeout, turned on a comedy special, kids rolling with laughter. Weekend vibe locked.","#LazyFriday #FamilyLaughs","@SmithCrew",76,5
+2023-03-18 07:09:00,Local Gym,Instagram,"Mary’s beating me in cardio again. I'm impressed, also slightly mortified!","#FitnessBattle","#CoupleRivalry",97,10
+2023-03-18 19:25:00,Home (Pacific Palisades),TikTok,"Mike forced me into a soccer trick challenge. I look like a giraffe on ice!","#DadFails","#MikeChampion",125,16
+2023-03-19 07:01:00,Home (Pacific Palisades),LinkedIn,"Brief reflection: balancing fatherhood, engineering, and music is wild but rewarding.","#WorkLifeBalance #DadLife","@AcmeConst",54,2
+2023-03-19 20:14:00,Living Room,Twitter (X),"Movie night meltdown part 4: I fell asleep mid-film, kids pelted me with popcorn. Thanks.","#FamilyBonding","#DadNaps",70,5
+2023-03-20 07:07:00,Acme Construction HQ,LinkedIn,"Final overpass inspection scheduled this week. Proud of our dedicated crew!","#FinalPush #Teamwork","#AcmeConst",49,2
+2023-03-20 19:10:00,Home (Pacific Palisades),Facebook,"Celebratory hot chocolate for everyone. We’re so close to completion, you can feel the excitement!","#AlmostThere","#Cheers",68,5
+2023-03-21 07:04:00,Home (Pacific Palisades),Instagram,"Tina practicing pirouettes while Mike bounces a soccer ball. My house is a circus!","#BalletVsSoccer","#SmithFamily",104,11
+2023-03-21 20:05:00,Local Dessert Cafe,TikTok,"Mary and I snuck out for molten lava cake. Kids are home, apparently unsupervised… pray for us!","#DateNight","#SweetCravings",133,17
+2023-03-22 07:15:00,Acme Construction HQ,LinkedIn,"Meeting the city rep for final sign-off. Wish me nerves of steel!","#BigDay #Engineering","@AcmeConst",42,1
+2023-03-22 20:35:00,Living Room,Twitter (X),"We did it: Overpass is official! Celebrating with a family pizza party. Feels unreal!","#Accomplishment","#SmithCrew",66,4
+2023-03-23 07:00:00,Home (Pacific Palisades),Facebook,"Kids jumped around chanting ‘Victory!’ like they built the overpass themselves. Gotta love them!","#FamilyPride","#OverpassWin",76,4
+2023-03-23 19:25:00,Tony’s Garage,Instagram,"Victory jam: Tony and I might write a song about finishing the overpass. Funky celebration!","#MusicMaking","#TonyMusicBuddy",110,13
+2023-03-24 07:20:00,Home (Pacific Palisades),TikTok,"Mike insisted on a freestyle soccer shoot for social. I tried my best cameo!","#SoccerStar","#DadCameo",113,14
+2023-03-24 20:15:00,Living Room,Twitter (X),"Raising a toast with sparkling cider. The Smiths are unstoppable tonight!","#FamilyCelebration","#WeekendVibes",62,5
+2023-03-25 07:30:00,Home (Pacific Palisades),LinkedIn,"Reflecting on the project journey. Proud of the entire Acme team’s dedication.","#Leadership #AcmeConst","#TonyEngineer",41,1
+2023-03-25 19:00:00,Local Steakhouse,Facebook,"Steak dinner treat with Mary—she’s the real MVP supporting me all this time.","#MarriedLife #Grateful","@MaryTeacher",65,5
+2023-03-26 07:03:00,Home (Pacific Palisades),Instagram,"Mike bragging he’ll start a soccer vlog. Gotta love his confidence!","#TeenDreams","#NextInfluencer",88,10
+2023-03-26 20:10:00,Ballet Recital Hall,TikTok,"Tina’s mini showcase: she nailed her routine! Mary cried, I cheered, unstoppable proud parents!","#BalletRecital","#TinaSmith",133,18
+2023-03-27 07:12:00,Acme Construction HQ,LinkedIn,"New horizons: exploring more sustainable solutions for future projects.","#Innovation #GreenEngineering","#AcmeConst",48,1
+2023-03-27 19:40:00,Living Room,Twitter (X),"Tina crocheting matching scarves for us. Mike calls them ‘team cringe.’ We all laugh anyway.","#FamilyJokes","#NeverBoring",77,5
+2023-03-28 07:00:00,Home (Pacific Palisades),Facebook,"Double meltdown: dog ate Mike’s homework, Tina can’t find her slippers. Normal day here.","#MorningMadness","#SmithLife",68,4
+2023-03-28 20:30:00,Tony’s Garage,Instagram,"Random jam turned into a mini live stream. People requested songs about rebar again!","#MusicComedy","#TonyMusicBuddy",114,11
+2023-03-29 07:02:00,Home (Pacific Palisades),TikTok,"Mike forced me into a keepy-uppy challenge. I can do a whopping 3 before disaster…","#SoccerFail","#DadRealness",127,15
+2023-03-29 20:15:00,Living Room,Twitter (X),"Movie night meltdown part 5: We ended up watching cartoons. Kids 1, parents 0!","#FamilyNight","#CartoonTakeover",68,4
+2023-03-30 07:20:00,Acme Construction HQ,LinkedIn,"Sharing lessons learned from the overpass project. Mentoring junior engineers next!","#KnowledgeShare #AcmeConst","@TonyEngineer",50,1
+2023-03-30 19:05:00,Home (Pacific Palisades),Facebook,"Mike hammered me in a FIFA match, then gloated all evening. My pride… gone!","#VideoGames","#FatherSonDuel",61,5
+2023-03-31 07:17:00,Home (Pacific Palisades),Instagram,"April Fools vibes creeping in. Kids plotting pranks. Send backup!","#PrankAlert #BePrepared","#SmithCrew",92,10
+2023-03-31 20:22:00,Living Room,TikTok,"Tina pranked me with confetti bomb mid-dance. Mary nearly choked laughing. Comedy gold!","#AprilFools","#SmithFamily",130,17
+2023-04-01 07:15:00,Home (Pacific Palisades),Twitter (X),"April Fools indeed: woke up to plastic wrap on the door. Kids unstoppable. I walked right in!","#PrankWar","#Ouch",55,3
+2023-04-01 20:00:00,Local Ice Cream Shop,Facebook,"Celebratory scoops. Mike mixing weird flavors. Tina filmed his reaction. Priceless!","#IceCreamDate","#FamilyLaughs",69,6
+2023-04-02 07:06:00,Beach (Pacific Palisades),Instagram,"Early stroll with Mary, picking seashells for a random craft idea. Love our calm Sundays.","#BeachLife #Romance","#MaryTeacher",103,10
+2023-04-02 20:32:00,Home (Pacific Palisades),TikTok,"Family lip-sync challenge: we harmonized… or attempted to. Neighbors might disagree!","#SillyFamily","#SmithCrew",129,15
+2023-04-03 07:09:00,Acme Construction HQ,LinkedIn,"Discussing a new eco-friendly materials project. Pumped to keep advancing our methods.","#Sustainability #Innovation","@AcmeConst",52,1
+2023-04-03 19:20:00,Living Room,Twitter (X),"Kids rummaged old photos tonight. Discovered my embarrassing 80s hair. I blame the era!","#Throwback","#FamilyLaughs",66,5
+2023-04-04 07:02:00,Home (Pacific Palisades),Facebook,"Mike forgot his soccer jersey again. Minor chaos, but Mary saved the day. She’s a superhero!","#MorningRescue","#TeamMom",69,4
+2023-04-04 19:40:00,Home (Pacific Palisades),Instagram,"Tina made a mini dance video starring Spot. I only provide comedic cameo. Genius creation!","#PetDance","#TinaSmith",105,11
+2023-04-05 07:08:00,Home (Pacific Palisades),TikTok,"Tried a viral cooking hack with Mary. Kitchen ended up in near disaster. So worth it!","#KitchenFail","#CoupleFun",123,16
+2023-04-05 20:25:00,Home Office,LinkedIn,"Late paperwork for a potential new contract. Grateful for quiet time—everyone else asleep.","#BusinessDev #Engineering","@AcmeConst",50,2
+2023-04-06 07:00:00,Acme Construction HQ,LinkedIn,"Preliminary talks for another big infrastructure job. The momentum continues.","#NextProject #AcmeConst","@TonyEngineer",38,1
+2023-04-06 19:10:00,Home (Pacific Palisades),Twitter (X),"Mary’s yoga session turned into us giggling over new poses. Mike facepalmed. Typical evening!","#CoupleYoga","#FamilyGiggles",72,5
+2023-04-07 07:12:00,Home (Pacific Palisades),Facebook,"Found Tina drawing up a dance routine for Mike to try. He’s doomed, but he’s game.","#SiblingFun #CreativeKids","@TinaSmith @MikeChampion",74,5
+2023-04-07 19:40:00,Local Cafe,Instagram,"Quiet coffee date with Mary after an insane week. So needed this moment.","#QualityTime #DateVibes","#MaryTeacher",102,12
+2023-04-08 07:26:00,Home (Pacific Palisades),TikTok,"Kids pranked me with water balloons at 7am. I was not emotionally prepared!","#AprilFoolsContinues","#ParentStruggle",130,16
+2023-04-08 20:35:00,Family Room,Twitter (X),"Movie choice meltdown part 6: ended up with a family-friendly comedy. Unity restored!","#MovieNight","#PeaceAtLast",66,4
+2023-04-09 07:18:00,Home (Pacific Palisades),Facebook,"Tina’s bunny ear costume for Easter? She’s dancing around so cutely. Happy Sunday all!","#EasterFun","#BalletBunny",71,5
+2023-04-09 19:55:00,Living Room,Instagram,"Egg hunt chaos earlier! Mike ended with the most candy. Spot tried to join. Hilarious day.","#EasterMemories #FamilyLaughs","#SmithCrew",115,12
+2023-04-10 07:10:00,Acme Construction HQ,LinkedIn,"Final thanks to everyone who supported the overpass project. We did it, team!","#Gratitude #AcmeConst","@TonyEngineer",47,1
+2023-04-10 18:30:00,Home (Pacific Palisades),TikTok,"Victory dance with Mary and the kids. Overpass done, now it’s pure celebration mode!","#WeDidIt","#SmithCrew",129,17
